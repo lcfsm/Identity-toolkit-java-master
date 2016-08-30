@@ -1,0 +1,7 @@
+{
+  "clientId": "667419314378-ia79gp41srtcs8llaubm8t5tskl8et40.apps.googleusercontent.com",
+  "serviceAccountEmail": "muii-865@nth-droplet-112420.iam.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile": "/My Project-106a42f89a26.p12",
+  "widgetUrl": "http://localhost:4567/gitkit",
+  "cookieName": "gtoken"
+}
